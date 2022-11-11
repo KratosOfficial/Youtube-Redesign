@@ -18,18 +18,23 @@ Today I want to share with you my Youtube Redesign UI concept📱
 <hr>
 
 <h1 align="center">Preview 📱</h1>
-<h1>DESKTOP</h1>
-![desktop](https://user-images.githubusercontent.com/83639732/201312575-a88854e7-e567-4964-9ede-25fd0c2c35e7.PNG)
+<h1><B> DESKTOP </h1>
 
-<h1>TABLET</h1>
-![Tablet](https://user-images.githubusercontent.com/83639732/201312585-87c2c41f-bf3b-4d57-a333-8a409c2b4655.PNG)
+![Screenshot (102)](https://user-images.githubusercontent.com/83639732/201314176-ab40b2f3-bdbb-4135-94d1-193d3829cf77.png)
 
-<h1>MOBILE</h1>
-![mobile](https://user-images.githubusercontent.com/83639732/201312591-7ecbb12f-302d-4422-abcd-5ff0d981cf1f.PNG)
+<h1><B> TABLET </h1>
+
+![Screenshot (104)](https://user-images.githubusercontent.com/83639732/201314598-83092247-d1a9-4747-96f3-bbc6c56ad7da.png)
+
+<h1><B> MOBILE </h1>
+
+![Screenshot (103)](https://user-images.githubusercontent.com/83639732/201314178-c10f1e9f-fb57-49fc-8835-d0b2e4f62272.png)
 
 <hr>
 
 <h1 align="center">Download Apk 📱</h1>
+
+<p align="center"> <a href="https://mega.nz/file/4M0ShQ7Q#gO-2CS-PfypsCm9poomY0DI9e4hythIr5ioGWuRRLmI" target="blank"> Download Apk for Android </a> </p>
 
 <hr>
 <h1 align="center">Challenges and Learnings along the way 🤯</h1>
